@@ -1,1 +1,1 @@
-web: sh start.sh
+web: with_proxy sh start.sh
