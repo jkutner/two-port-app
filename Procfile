@@ -1,1 +1,1 @@
-web: sh start.sh && aux_ports
+web: aux_ports; sh start.sh
